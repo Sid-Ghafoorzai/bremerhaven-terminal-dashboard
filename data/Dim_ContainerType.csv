@@ -1,0 +1,5 @@
+ContainerType_ID,Size,Reefer,Hazardous
+1,20ft,0,0
+2,40ft,0,0
+3,40ft Reefer,1,0
+4,20ft Hazardous,0,1
